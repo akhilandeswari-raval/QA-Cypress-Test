@@ -1,0 +1,28 @@
+[{
+    "name": "Testing",
+    "email": "testing@gmail.com",
+    "phone": "12345674890"
+  },
+
+  {
+    "name": "Testing 1",
+    "email": "test@test.com",
+    "phone": "1234"
+  },
+  {
+    "name": "Testing 2",
+    "email": "testing",
+    "phone": "0"
+  }, 
+  {
+    "name": "Testing 3",
+    "email": "1234",
+    "phone": "abcd"
+  },
+
+  {
+    "name": "Testing 4",
+    "email": "0@0",
+    "phone": "+--=,./;'[]"
+  }
+] 
